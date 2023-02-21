@@ -110,7 +110,6 @@ _Links a user to a course_
 ### Category
 
 - courseId: foreign_key
-- _missing attributes_
 - name: string
 
 ### CourseScore
