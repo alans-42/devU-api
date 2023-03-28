@@ -12,8 +12,8 @@ import {
 import { LetterGrade, letterGrades } from 'devu-shared-modules'
 
 import CategoryModel from './category.model'
-import CourseModel from './courses.model'
-import UserModel from './users.model'
+import CourseModel from './course.model'
+import UserModel from './user.model'
 
 @Entity('category_score')
 export default class CategoryScore {
